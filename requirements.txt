@@ -1,0 +1,6 @@
+Supermarket-Sales_Analysis/
+├── SuperMarket Analysis copy.csv
+├── Supermarket_analysis.py
+├── visualizations.py
+├── README.md
+└── requirements.txt
